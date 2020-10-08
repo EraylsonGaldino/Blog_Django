@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'y=gkured#4avp_*yw8%kjhaq(m#w8l2jba$%!cbpb&mv*5qasm'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'eraylson.pythonanywhere.com/']
 
